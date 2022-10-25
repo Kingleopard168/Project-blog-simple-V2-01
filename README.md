@@ -1,2 +1,2 @@
-# Project-blog-simple-V2-01
-Create model and admin template
+# Project-blog-simple
+ Project-blog-simple
